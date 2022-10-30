@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" content="Dynamic File Uploader to upload file with real time upload progress, total size of file etc.">
 	<meta name="keywords" content="dynamic, uploader, upload, file, realtime, progress, procces, size, etc.">
-	<meta name="author" content="Md. Saifur Rahman and Shakil Ahmed">
+	<meta name="author" content="Deepak Kumar">
 	<meta property="og:image" content="https://i.ibb.co/HtqRhv3/logo.png">
 	<title>Dynamic File Uploader</title>
 	<link rel="shortcut icon" href="https://i.ibb.co/k6ZrV5t/icons8-upload-64.png" type="image/x-icon">
@@ -263,7 +263,7 @@
 			
 
 			<div class="credit">
-				<span>copyright &copy; 2020. all right reserved by <a href="#">Codebumble Inc.</a></span>
+				<span>copyright &copy; 2020. all right reserved by <a href="#">AppsModz</a></span>
 			</div>
 		</div>
 	</div>
